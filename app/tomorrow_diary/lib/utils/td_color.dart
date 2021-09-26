@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class TdColor {
+  static const white = Color(0xffffffff);
   static const lightBlue = Color(0xff95A8DB);
   static const blue = Color(0xff0069CA);
   static const lightGray = Color(0xffC4C4C4);
