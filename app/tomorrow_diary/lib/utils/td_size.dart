@@ -3,4 +3,6 @@ class TdSize {
   static const s = 12;
   static const m = 15;
   static const l = 26;
+  static const radiusS = 5;
+  static const radiusM = 10;
 }
