@@ -2,7 +2,7 @@
   
   
 # 내일 일기(Tomorrow Diary)
-![Logo](https://github.com/oddugi-can-do/app_TomorrowDiary_TomorrowDiary/blob/dev/Tomorrow_Diary_Banner.png)
+![Banner](https://user-images.githubusercontent.com/19565940/138079956-be7ca046-d93b-4b98-88b5-a105589e099c.png)
 
 
 <a href='https://play.google.com/store/apps/details?id=com.TDiary.tomorrow_diary&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'/></a>
