@@ -92,7 +92,7 @@
 
 
 ### Summary
-![Frame 3](https://user-images.githubusercontent.com/19565940/138082991-7886edec-7da3-4665-ac5e-ba33b8d2c0e8.png)
+![Tech](https://user-images.githubusercontent.com/19565940/138102257-663428e0-55c1-4852-9b11-85f5393a0d88.png)
  
 
 ## 설치 안내 (Installation Process)
