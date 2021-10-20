@@ -47,13 +47,16 @@
 
 |기능|미리보기|
 |--|--|
-|로그인도 간편하게! O-Auth 기능 (구글, 페이스북)|  |
-|내일 일기 미리 쓰기|  |
+|로그인도 간편하게! O-Auth 기능 (구글, 페이스북)|![oauthGIF](https://user-images.githubusercontent.com/19565940/138081543-683f1401-d628-4d9d-beeb-f3e105270bae.gif)|
+|자동 로그인 기능|![autologinGIF](https://user-images.githubusercontent.com/19565940/138080573-572e966c-af02-4bab-8bd3-08b54d139cd1.gif)|
+|내일 일기 미리 쓰기|![tomorrowGIF](https://user-images.githubusercontent.com/19565940/138082183-18f90aaa-309b-4a0f-ab0e-98b4788f1375.gif)|
 |내일 일기를 기반으로 오늘 일기 완성하기|![tydiaryGIF](https://user-images.githubusercontent.com/19565940/137935448-8d1f8c3b-aced-4325-b04a-fee7df605ab0.gif)|
-|To-do List (시간 설정 가능)|  |
-|프로필 (프로필 사진 및 업적 보기)|  |
-|자신이 쓴 일기 분석 (차트로 표현)|  |
-|pub.dev에 캘린더 라이브러리 출시! [simple_quick_calendar](https://pub.dev/packages/simple_quick_calendar)|  |
+|To-do List (시간 설정 가능)|![todoGIF](https://user-images.githubusercontent.com/19565940/138082405-0bc29738-b92e-40fd-a8d8-862f81d0082d.gif)|
+|프로필 사진 표정 분석|![imageAIGIF](https://user-images.githubusercontent.com/19565940/138081362-e9ce4ef1-8c0b-4b98-8c2d-999aed2b9c1d.gif)|
+|오늘의 일기 감정 분석|![textAIGIF](https://user-images.githubusercontent.com/19565940/138081914-ecb80dd3-816a-4010-bc6b-b05312519ba3.gif)|
+|자신이 쓴 일기 분석 (차트로 표현)|![analysisGIF](https://user-images.githubusercontent.com/19565940/138080533-7b58caa1-32ac-4a35-a08a-a043bd6f5b92.gif)|
+|업적 시스템|![achievementGIF](https://user-images.githubusercontent.com/19565940/138080432-f8794394-33df-40e2-a292-826291d5aaff.gif)|
+|pub.dev에 캘린더 라이브러리 출시! [simple_quick_calendar](https://pub.dev/packages/simple_quick_calendar)|![simpleQuickCalendarGIF](https://user-images.githubusercontent.com/19565940/138082565-d88563fa-1375-42ca-9061-18c4cbfb5d6f.gif)|
 
 ## 필수 조건 안내 (Prerequisites)
 * Android 5.0 (Lollipop, api level 21) 이상
@@ -69,7 +72,6 @@
 |--|--|--|
 |Authentication|OAuth : Google, Facebook|Store Data in Firestore|
 
- 
 ### Front-end
 |![](https://user-images.githubusercontent.com/19565940/137632558-ed3660ac-bc5b-4efd-aa69-9bd074b1daf7.png)|
 |--|
@@ -89,12 +91,16 @@
 |SaaS : Amazon rekognition|SaaS : Amazon Comprehend|
 
 
+### Summary
+![Frame 3](https://user-images.githubusercontent.com/19565940/138082991-7886edec-7da3-4665-ac5e-ba33b8d2c0e8.png)
+ 
+
 ## 설치 안내 (Installation Process)
+[Google Play 링크](https://play.google.com/store/apps/details?id=com.TDiary.tomorrow_diary) 또는
 [apk 파일](https://github.com/osamhack2021/app_TomorrowDiary_TomorrowDiary/blob/dev/tomorrow_diary/Tomorrow_Diary.apk)
-또는 [Google Play 링크](https://play.google.com/apps/internaltest/4699242567069263074)
 
 ## 프로젝트 사용법 (Getting Started)
-apk 파일을 받고 설치하거나 Google Play에서 "내일 일기"앱을 다운받는다.
+Google Play에서 "내일 일기"앱을 다운받거나 apk파일을 설치한다.
  
 ## 팀 정보 (Team Information)
 
@@ -112,7 +118,7 @@ This project is licensed under the terms of the MIT license.
 ### 사용된 오픈소스 패키지
 |사용한 오픈소스 패키지 이름| 용도  |
 |:--:|:--:|
-| get: 4.3.8 | State Manager, Navigator |
+| get: ^4.3.8 | State Manager, Navigator |
 | firebase_core: ^1.6.0 | Firebase |
 | firebase_auth: ^3.1.1| Firebase Auth |
 | cloud_firestore: ^2.5.3 | Firestore |
