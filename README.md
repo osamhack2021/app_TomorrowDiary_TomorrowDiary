@@ -9,6 +9,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/osamhack2021/app_TomorrowDiary_TomorrowDiary)](https://github.com/osamhack2021/app_TomorrowDiary_TomorrowDiary/blob/dev/LICENSE)
 
+[데모 영상 링크](https://www.youtube.com/watch?v=UNanBBTLIyA)
+
 ## 프로젝트 소개
 >일기를 쓰면 좋다는 사실은 누구나 알고 있다. 
 >
