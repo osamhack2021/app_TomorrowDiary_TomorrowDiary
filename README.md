@@ -8,6 +8,9 @@
 <a href='https://play.google.com/store/apps/details?id=com.TDiary.tomorrow_diary&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'/></a>
 
 [![GitHub license](https://img.shields.io/github/license/osamhack2021/app_TomorrowDiary_TomorrowDiary)](https://github.com/osamhack2021/app_TomorrowDiary_TomorrowDiary/blob/dev/LICENSE)
+#### 내일 일기의 오늘의 기분 기능은 권한이 있어야 사용가능합니다.
+#### 해커톤 대회가 끝나기전까지 해당 아이디로 들어가면 사용하실수 있습니다
+#### hackathon@gmail.com/hackathon123
 
 [데모 영상 링크](https://www.youtube.com/watch?v=UNanBBTLIyA)
 
